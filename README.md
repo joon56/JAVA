@@ -11,4 +11,4 @@ Summaries on my Blog
 
 ###[Class and Objects](https://helloparzival.tistory.com/entry/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4)
 
-###[Inheritance]
+###[Inheritance](https://helloparzival.tistory.com/entry/JAVA-%EC%83%81%EC%86%8D)
