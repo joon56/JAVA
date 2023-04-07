@@ -13,4 +13,4 @@ Summaries on my Blog
 
 ###[Inheritance](https://helloparzival.tistory.com/entry/JAVA-%EC%83%81%EC%86%8D)
 
-###[https://helloparzival.tistory.com/entry/JAVA-%EB%8B%A4%ED%98%95%EC%84%B1
+###[Poly](https://helloparzival.tistory.com/entry/JAVA-%EB%8B%A4%ED%98%95%EC%84%B1)
