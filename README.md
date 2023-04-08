@@ -14,3 +14,5 @@ Summaries on my Blog
 ###[Inheritance](https://helloparzival.tistory.com/entry/JAVA-%EC%83%81%EC%86%8D)
 
 ###[Poly](https://helloparzival.tistory.com/entry/JAVA-%EB%8B%A4%ED%98%95%EC%84%B1)
+
+###[Abstract class and Interface](https://helloparzival.tistory.com/entry/JAVA-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
