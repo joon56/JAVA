@@ -19,4 +19,4 @@ Summaries on my Blog
 
 ###[Overlap class](https://helloparzival.tistory.com/entry/JAVA-%EC%A4%91%EC%B2%A9-%ED%81%B4%EB%9E%98%EC%8A%A4)
 
-###[https://helloparzival.tistory.com/entry/JAVA-%EC%9E%90%EB%B0%94%EC%9D%98-%EB%9E%8C%EB%8B%A4%EC%8B%9D
+###[Lambda](https://helloparzival.tistory.com/entry/JAVA-%EC%9E%90%EB%B0%94%EC%9D%98-%EB%9E%8C%EB%8B%A4%EC%8B%9D)
